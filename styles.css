@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    overflow-x: hidden;
+}
+
+.Header{
+    display: flex;
+    align-items: center;
+    background-color: #ec97ab;
+}
+.Logo{
+    width: 5%;
+    height: auto;
+    margin-left: 2%;
+}
+.CapaPrincipal {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;   
+    background-color: #bee4e9; 
+}
+
+.Nome-do-site {
+    display: flex;
+    align-items: center;
+    width: 40%;  
+    height: auto;
+    position: relative;
+}
+
+.Botoes {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+
+.gatinhos {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #ec97ab; 
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.gatinhos:hover {
+    background-color: #ff4f70;
+    transform: scale(1.05); 
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
