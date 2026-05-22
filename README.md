@@ -2,7 +2,9 @@
 
 Projeto desenvolvido para praticar **HTML** e **CSS**.
 
-> 🚧 Projeto em desenvolvimento – novas melhorias e funcionalidades ainda serão adicionadas.
+---
+
+ 🚧 Projeto em desenvolvimento – novas melhorias e funcionalidades ainda serão adicionadas.
 
 ---
 
