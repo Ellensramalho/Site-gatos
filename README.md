@@ -32,5 +32,4 @@ Durante o desenvolvimento foram trabalhados conceitos como:
 
 ## 🚧 Status do projeto
 
-Atualmente o projeto **não está concluído** e continua em desenvolvimento.
-
+Atualmente o projeto **não está concluído**.
